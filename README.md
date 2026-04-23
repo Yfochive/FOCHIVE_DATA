@@ -1,7 +1,7 @@
 # FOCHIVE_DATA
 # 👋 Hi, I'm Yaya Fochive
 
-🎯 Data Analyst looking for a Master 2 apprenticeship (2025)
+🎯 Data Analyst looking for a Master 2 apprenticeship (2026)
 
 ## 🔧 Skills
 - Power BI (DAX, Power Query)
@@ -14,5 +14,5 @@
 🚧 Coming soon...
 
 ## 📫 Contact
-- LinkedIn: [your link]
-- Email: yayaf...@gmail.com
+- LinkedIn: [www.linkedin.com/in/yaya-mounchikpou-fochive-4373b6246]
+- Email: yayafochive037@gmail.com
